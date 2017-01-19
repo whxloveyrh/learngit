@@ -6,3 +6,5 @@ test 1234
 newline readme.txt
 SECOND PROJECT
 third project
+
+Seven Project
