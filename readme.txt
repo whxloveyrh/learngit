@@ -6,4 +6,6 @@ newline readme.txt
 
 SECOND PROJECT
 
-third project
+third pr
+
+TEST PROJECT
